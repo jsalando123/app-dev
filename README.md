@@ -1,2 +1,4 @@
 # app-dev
 My first repository
+**Solo Leveling**
+*Solo Leveling is a South Korean web novel and manhwa that follows the story of Sung Jin-Woo, an E-rank hunter—one of the weakest individuals tasked with fighting monsters that appear from mysterious "gates" linking the human world to dangerous dungeons. Initially ridiculed and barely surviving low-level raids, Jin-Woo's life changes dramatically after a disastrous mission in a double dungeon, where he is granted a mysterious power known as the "System." This power allows him to level up, gain skills, and become stronger—something no other hunter can do. As he evolves from the weakest hunter into an unstoppable force, Jin-Woo uncovers dark secrets behind the gates, the origin of his powers, and the true purpose of hunters. Along the way, he battles deadly enemies, forms alliances, and transforms into a hero with the fate of humanity resting on his shoulders.*
